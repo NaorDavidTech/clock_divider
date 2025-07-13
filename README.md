@@ -1,4 +1,4 @@
-# clock_divider
+
 
 
 # ⏱️ Clock Divider in Verilog
